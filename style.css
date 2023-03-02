@@ -13,3 +13,8 @@ div {
     border: 1px solid black;
     margin-bottom: 10px;
 }
+
+a {
+    color: white;
+    text-decoration: none;
+}
